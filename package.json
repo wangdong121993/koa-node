@@ -1,0 +1,22 @@
+{
+  "name": "koa-node",
+  "version": "1.0.0",
+  "description": "koa-node 初学",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangdong121993/koa-node.git"
+  },
+  "author": "dong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangdong121993/koa-node/issues"
+  },
+  "homepage": "https://github.com/wangdong121993/koa-node#readme",
+  "dependencies": {
+    "koa": "^2.5.3"
+  }
+}
